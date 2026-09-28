@@ -1,3 +1,5 @@
+# RELATED ALGO: Boyer-Moore Majority vote algo, sorting
+
 class Solution(object):
     def majorityElement(self, nums):
         """
